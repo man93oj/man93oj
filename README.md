@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Manoj Prabhakar, currently learning and working on intersection of Computer Vision, Web and Bioinformatics.
+I'm Manoj Nallabothula, currently learning and working on intersection of Computer Vision, Web and Bioinformatics.
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/man93oj), [Twitter](https://twitter.com/man93oj)
 
