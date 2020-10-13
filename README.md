@@ -4,11 +4,11 @@ I'm Manoj Prabhakar, currently learning and working on intersection of Computer 
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/man93oj), [twitter](https://twitter.com/man93oj)
 
-![man93oj's stats](https://github-readme-stats.vercel.app/api?username=man93oj&show_icons=true&hide_title=true&&theme=radical)  
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=man93oj" alt="man93oj" />
+![man93oj's stats](https://github-readme-stats.vercel.app/api?username=man93oj&show_icons=true&hide_title=true&&theme=radical)  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=man93oj&hide=css,html" alt="man93oj" />
 
 <!--
+
+
 **man93oj/man93oj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
