@@ -2,7 +2,7 @@
 
 I'm Manoj Nallabothula, currently learning and working on intersection of Computer Vision, Web and Bioinformatics.
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/man93oj), [Twitter](https://twitter.com/man93oj)
+📫 You can reach me at: [LinkedIn](https://linkedin.com/in/man93oj), [Twitter](https://twitter.com/man93oj)
 
 ![man93oj's stats](https://github-readme-stats.vercel.app/api?username=man93oj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=man93oj&hide=css,html&layout=compact)
